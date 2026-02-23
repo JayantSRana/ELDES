@@ -1,0 +1,96 @@
+🌐 1️⃣ Open the Project Link
+
+Copy and paste the project link into your web browser:
+https://wokwi.com/projects/456679913777533953
+
+Press Enter to load the project page.
+
+🔐 2️⃣ Sign In (Optional but Recommended)
+
+To save changes or access full features:
+
+Click "Sign In" at the top right corner
+
+Sign in using:
+
+Google
+
+GitHub
+
+Email
+
+🖥️ 3️⃣ View the Project
+
+After the page loads, you will see:
+
+🧠 ESP32 Microcontroller
+
+🌡️ Sensors (Soil, Rain, MPU6050, etc.)
+
+📺 OLED Display
+
+🔔 Buzzer & LEDs
+
+💻 Code Editor (sketch.ino)
+
+📄 diagram.json wiring layout
+
+▶️ 4️⃣ Start the Simulation
+
+Click the green "Start Simulation" button at the top.
+
+The system will begin running.
+
+Serial Monitor will display real-time readings.
+
+🔎 5️⃣ Interact with the Project
+
+You can:
+
+Adjust soil moisture value (if potentiometer used)
+
+Trigger rain sensor
+
+Simulate motion via MPU6050
+
+Observe OLED updates
+
+Watch LED status changes:
+
+🟢 Normal
+
+🟡 Warning
+
+🔴 Critical
+
+Hear buzzer during critical condition
+
+If you modify the code:
+
+Click "Restart Simulation" to apply changes.
+
+💾 6️⃣ Save or Share (Optional)
+
+To save your version:
+
+Click "Save" (Sign-in required)
+
+To share:
+
+Click "Share"
+
+Copy the generated link
+
+Send to others for review or presentation
+
+🎯 What You Will Observe During Simulation
+
+Real-time environmental monitoring
+
+Automatic threshold comparison
+
+Alert triggering mechanism
+
+Live OLED data updates
+
+Serial debugging output
